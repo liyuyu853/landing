@@ -1,0 +1,26 @@
+.banner {
+  background-image: linear-gradient(rgba(80, 80, 80, 0.3), rgba(80, 80, 80, 0.3)), url("../../images/pfw.jpg");
+  background-size: cover;
+  background-position: center;
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 100px 40px;
+  box-sizing: border-box;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.banner h1 {
+  font-size: 64px;
+  margin: 0;
+  letter-spacing: 4px;
+}
+
+.banner h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.banner p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
